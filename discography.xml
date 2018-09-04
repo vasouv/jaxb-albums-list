@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vinyl-discography>
+    <albums>
+        <album>
+            <title>Incorruptible</title>
+            <band>Iced Earth</band>
+            <year>2017</year>
+            <tracklist>
+                <track trackNo="1">
+                    <title>Great Heathen Army</title>
+                    <duration>5.19</duration>
+                </track>
+                <track trackNo="2">
+                    <title>Black Flag</title>
+                    <duration>4.56</duration>
+                </track>
+                <track trackNo="3">
+                    <title>Raven Wing</title>
+                    <duration>6.25</duration>
+                </track>
+                <track trackNo="4">
+                    <title>The Veil</title>
+                    <duration>4.47</duration>
+                </track>
+                <track trackNo="5">
+                    <title>Seven Headed Whore</title>
+                    <duration>3.0</duration>
+                </track>
+            </tracklist>
+        </album>
+        <album>
+            <title>Jomsviking</title>
+            <band>Amon Amarth</band>
+            <year>2016</year>
+            <tracklist>
+                <track trackNo="1">
+                    <title>First Kill</title>
+                    <duration>4.21</duration>
+                </track>
+                <track trackNo="2">
+                    <title>Wandered</title>
+                    <duration>4.43</duration>
+                </track>
+                <track trackNo="3">
+                    <title>On a Sea of Blood</title>
+                    <duration>4.05</duration>
+                </track>
+            </tracklist>
+        </album>
+    </albums>
+</vinyl-discography>
